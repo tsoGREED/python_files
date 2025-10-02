@@ -4,3 +4,4 @@
 заказы (id_order, date_order)
 ибранные (товар)
 '''
+print('hello world')
